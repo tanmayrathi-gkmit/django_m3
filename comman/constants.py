@@ -1,0 +1,1 @@
+MAX_STUDENT_AGE = 30

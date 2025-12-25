@@ -1,0 +1,12 @@
+GET http://127.0.0.1:8000/
+
+###
+
+POST http://127.0.0.1:8000/ HTTP/1.1
+content-Type: application/json
+
+{
+    "name": "Rathi",
+    "age": 22,
+    "grade": "C"
+}
